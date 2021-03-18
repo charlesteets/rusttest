@@ -1,0 +1,43 @@
+[{
+    "Items": [
+        {
+            "Info": {
+                "name": "Minicopter",
+                "shortName": "box.repair.bench",
+                "skin": "1742653197",
+                "permission": "craftmenu.vip",
+                "command": "portablevehicles.give {player} minicopter"
+            },
+            "Cost": [
+                {   "gameName": "metal.fragments",
+                    "displayName": "Metal Frags",
+                    "amount": 5000
+                },
+                {"gameName": "metalblade",
+                    "displayName": "Metal Blades",
+                    "amount": 10
+                },
+                {"gameName": "techparts",
+                    "displayName": "Tech Trash",
+                    "amount": 10
+                  },
+                  {"gameName": "scrap",
+                    "displayName": "Scrap",
+                    "amount": 5000
+                  },
+                  {"gameName": "gears",
+                    "displayName": "Gears",
+                    "amount": 15
+                  },
+                  {"gameName": "fuse",
+                    "displayName": "Fuse",
+                    "amount": 10
+                  },
+                  {"gameName": "metal.refined",
+                    "displayName": "HQM",
+                    "amount": 750
+                  }
+           ]
+        }
+    ]
+}]
